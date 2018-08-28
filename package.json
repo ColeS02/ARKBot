@@ -1,0 +1,22 @@
+{
+  "name": "arkbot",
+  "version": "1.0.0",
+  "description": "arctic_ticket_0imG+HxU",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "D Wright",
+  "homepage": "https://github.com/wr1ght",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "chalk": "^2.4.1",
+    "dotenv": "^6.0.0",
+    "eris": "^0.9.0",
+    "moment": "^2.22.2",
+    "source-server-query": "0.0.1",
+    "steam-query": "0.0.10",
+    "superagent": "^3.8.3",
+    "warehouse": "^2.2.0"
+  }
+}

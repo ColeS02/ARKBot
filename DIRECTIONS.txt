@@ -1,0 +1,6 @@
+Required:
+    https://nodejs.org/en/download/current/
+
+Run `npm install` while in the directory
+
+node src/index.js
