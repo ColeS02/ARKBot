@@ -4,6 +4,7 @@
   "description": "arctic_ticket_0imG+HxU",
   "main": "src/index.js",
   "scripts": {
+    "start": "node your-script.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "D Wright",
